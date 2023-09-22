@@ -2,11 +2,11 @@
 This node.js project uses graphql to query and update a small restaurant database.
 
 # How to Run
-Use terminal to cd into the files' directory.  Run "npm install."  This will install the graphql and express dependencies.  
-Next, run node index.js
-Terminal will print the local port where the server will be running (I set it to port 5500).
-In a web browser, browse to localhost:5500/graphql
-Use queries and mutations to interact with the database.  In this repo, see the "queries.txt" file for suggested queries.
+- Use terminal to cd into the files' directory.  Run "npm install."  This will install the graphql and express dependencies.  
+- Next, run node index.js
+- Terminal will print the local port where the server will be running (I set it to port 5500).
+- In a web browser, browse to localhost:5500/graphql
+- Use queries and mutations to interact with the database.  In this repo, see the "queries.txt" file for suggested queries.
 
 # Support
 You can email me with questions at info@codebykatherine.com
